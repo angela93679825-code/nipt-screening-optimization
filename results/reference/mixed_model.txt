@@ -1,0 +1,20 @@
+          Mixed Linear Model Regression Results
+=========================================================
+Model:             MixedLM Dependent Variable: y_fraction
+No. Observations:  1081    Method:             REML      
+No. Groups:        267     Scale:              0.0002    
+Min. group size:   1       Log-Likelihood:     2590.8057 
+Max. group size:   8       Converged:          Yes       
+Mean group size:   4.0                                   
+---------------------------------------------------------
+               Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+---------------------------------------------------------
+Intercept       0.059    0.016  3.575 0.000  0.026  0.091
+ga              0.003    0.000 14.627 0.000  0.003  0.004
+bmi            -0.001    0.001 -2.240 0.025 -0.002 -0.000
+Group Var       0.002    0.022                           
+Group x ga Cov -0.000    0.001                           
+ga Var          0.000    0.000                           
+=========================================================
+
+Converged: True

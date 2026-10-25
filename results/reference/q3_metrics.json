@@ -1,0 +1,15 @@
+{
+  "mae_weeks": 1.7809943597783486,
+  "patients": 266,
+  "train": 212,
+  "test": 54,
+  "features": [
+    "age",
+    "height",
+    "weight",
+    "pregnancies",
+    "births",
+    "pregnancies_minus_births",
+    "bmi"
+  ]
+}

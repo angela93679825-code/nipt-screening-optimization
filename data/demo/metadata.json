@@ -1,0 +1,7 @@
+{
+  "dataset_kind": "synthetic_demo",
+  "seed": 2025,
+  "patients": 100,
+  "contains_original_patient_data": false,
+  "generator": "scripts/generate_demo.py"
+}

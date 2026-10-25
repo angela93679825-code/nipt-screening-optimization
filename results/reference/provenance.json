@@ -1,0 +1,13 @@
+{
+  "run_date": "2026-10-25",
+  "dataset_kind": "original_data_local_reconstruction",
+  "raw_inputs_in_repository": false,
+  "source_hashes": {
+    "代码(1).docx": "9f0849b470686eceb4d704974b8ab759116c6396ec47b2760e9b4f330ad75baa",
+    "附件.xlsx": "14827156218bd4f7e4f16db4aa6d9f757c6648379e038ae6c6b58383648614af",
+    "2025国赛论文.pdf": "ad1e8536c18c1c44809f90509ba69b797ae53b5c4891d6aa9e68433b1e7a1228",
+    "C题.pdf": "d54400f4bb9920c0d37f15f5b6bc161aa281c4b32c03c063efdeb739716eac08"
+  },
+  "code_version": "modular upload preparation; see docs/PROVENANCE.md",
+  "environment": "Python 3.12; pinned versions in requirements.txt"
+}

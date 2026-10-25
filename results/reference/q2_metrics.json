@@ -1,0 +1,8 @@
+{
+  "groups": 3,
+  "score": 3.442026772211501,
+  "coverage_as_scored": 0.8164794007490637,
+  "coverage_absolute_difference": 0.6142322097378277,
+  "candidate_schemes": 1085,
+  "objective": "historical competition score; not clinical validation"
+}

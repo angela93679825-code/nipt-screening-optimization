@@ -1,0 +1,4 @@
+bmi_group,patients,predicted_mean_week
+obese,261,13.633557319641113
+overweight,4,14.198261260986328
+normal,1,16.301210403442383
